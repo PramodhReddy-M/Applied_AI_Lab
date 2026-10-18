@@ -1,10 +1,10 @@
-# Applied AI Lab 🧠🚀
+# Applied AI Lab
 
 Welcome to your comprehensive, hands-on guide to mastering Artificial Intelligence and Machine Learning with Python. This repository bridges the gap between theory and code, taking you from absolute Python fundamentals all the way to deploying production-ready AI models and intelligent agents.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 ├── Python Foundations & EDA/     # Python basics, NumPy, Pandas, Matplotlib & Exploratory Data Analysis
