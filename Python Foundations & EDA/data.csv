@@ -1,5 +1,5 @@
-Name,Age,City
-MPR,28,Gnt
-Ram,9,SF
-GPU,15,LA
-NPU,30,CA
+Name,Age,City,Income,Gender
+MPR,28,Gnt,99999,M
+Ram,9,SF,9999,M
+GPU,15,LA,9999,F
+NPU,30,CA,1111,F
